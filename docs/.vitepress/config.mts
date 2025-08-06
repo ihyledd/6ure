@@ -26,7 +26,7 @@ const baseUrl = process.env.GITHUB_ACTIONS ? '/edit' : '/'
 export default defineConfig({
   title: 'FMHY',
   description: meta.description,
-  titleTemplate: ':title • freemediaheckyeah',
+  titleTemplate: ':title • 6ure',
   lang: 'en-US',
   lastUpdated: false,
   cleanUrls: true,
@@ -148,18 +148,6 @@ export default defineConfig({
       meta.build.api && md.use(headersPlugin)
     }
   },
-  themeConfig: {
-    search,
-    footer: {
-      message: `${feedback} (rev: ${commitRef})`,
-      copyright:
-        `© ${new Date().getFullYear()}, <a href="https://i.ibb.co/VJQmQ9t/image.png">Estd 2018.</a>` +
-        `<br/> This site does not host any files.`
-    },
-    editLink: {
-      pattern: 'https://github.com/fmhy/edit/edit/main/docs/:path',
-      text: '📝 Edit this page'
-    },
     outline: 'deep',
     logo: '/fmhy.ico',
     nav,
