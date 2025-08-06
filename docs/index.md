@@ -1,11 +1,11 @@
 ---
 title: Welcome
 layout: home
-description: The largest collection of free stuff on the internet!
+description: The largest leaking community for editors!
 
 hero:
-  name: freemediaheckyeah
-  tagline: The largest collection of free stuff on the internet!
+  name: 6ure
+  tagline: The largest leaking community for editors!
   announcement:
     title: Aug 2025 Updates ✨
     link: /posts/aug-2025
