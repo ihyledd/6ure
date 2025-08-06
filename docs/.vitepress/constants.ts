@@ -21,9 +21,9 @@ import { transform, transformGuide } from './transformer'
 // @unocss-include
 
 export const meta = {
-  name: '6ure',
-  description: 'The largest leaking community for editors!',
-  hostname: 'https://wiki.6ureleaks.com',
+  name: 'freemediaheckyeah',
+  description: 'The largest collection of free stuff on the internet!',
+  hostname: 'https://fmhy.net',
   keywords: ['stream', 'movies', 'gaming', 'reading', 'anime'],
   build: {
     api: true,
